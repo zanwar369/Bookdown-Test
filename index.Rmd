@@ -1,6 +1,6 @@
 --- 
 title: "Book Test"
-author: "Zohaib Anwar"
+author: "Zohaib Anwar Test"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
