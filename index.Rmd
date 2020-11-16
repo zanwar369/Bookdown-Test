@@ -9,4 +9,4 @@ site: bookdown::bookdown_site
 
 ```{r}
 install.packages("ggplot2")
-```{r}
+```
