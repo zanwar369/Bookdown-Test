@@ -7,6 +7,4 @@ site: bookdown::bookdown_site
 
 # Down the rabbit-hole
 
-```{r,include=FALSE}
-install.packages("ggplot2")
-```
+
