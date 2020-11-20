@@ -1,4 +1,5 @@
 # New Chapter
 
 ```{r}
+library("ggplot2")
 ```
