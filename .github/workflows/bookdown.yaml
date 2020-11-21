@@ -40,6 +40,7 @@ jobs:
       - name: Install packages
         run: |
           R -e 'install.packages("renv")'
+          R -e 'install.packages("ggplot2")'
           R -e 'renv::restore()'
 
       - name: Build site
